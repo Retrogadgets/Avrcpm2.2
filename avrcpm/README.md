@@ -20,7 +20,6 @@ http://www.mikrocontroller.net/topic/177481
 
 http://www.mikrocontroller.net/articles/AVR_CP/M
 
-http://cloudbase.homelinux.net/viewvc/avr-cpm/avrcpm/trunk/
 
 
 
