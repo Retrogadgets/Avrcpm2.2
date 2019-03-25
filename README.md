@@ -3,7 +3,6 @@ Cp/m 2.2 on AVR stick revision 3.1
 
 See the full project at https://www.mikrocontroller.net/topic/177481?page=4#3941030
 
-# avrcpm
 Originally by sprite_tm and further developed by german mikrocontroller forum.
 
 ![screen](https://github.com/petersieg/avrcpm/blob/master/screen.jpg)
@@ -48,10 +47,15 @@ SIEMENS HYB514256B-70
 The following SD cards have been tested successfully with the hardware variant 3 at 20 MHz system clock:
 
 CnMemory (FIRSTCLASS) 1GB
+
 Intenso 2GB
+
 Kingston 1GB
+
 Panasonic 2GB Class 4
+
 SK 4GB SDHC Class 6
+
 Traveler 64MB
 
 Links:
